@@ -31,4 +31,4 @@ Results of my data analysis show that:
 
 ![test image 2](histograms-page-001.jpg)
 
-Please see the `factbook.db` data set and the full exploratory data analysis in the Project 3.ipynb notebook above.
+Please see the `factbook.db` data set and the full exploratory data analysis in the `Project 3.ipynb` notebook above.
