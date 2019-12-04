@@ -26,7 +26,7 @@ Results of my data analysis show that:
 * Most countries have a birth rate of 25 births per year per 1,000 people and less.
 * The death rate of most countries falls from 3 - 10 deaths per year per 1,000 people.
 * Macau is the most densely populated country at 21,169 people per km<sup>2</sup>.
-* The majority of the countries have a population density of 2,000 people per km2 and less.
+* The majority of the countries have a population density of 2,000 people per km<sup>2</sup> and less.
 * Only 2 countries have more water area than land: British Indian Ocean Territory and the Virgin Islands.
 
 ![test image 2](histograms-page-001.jpg)
